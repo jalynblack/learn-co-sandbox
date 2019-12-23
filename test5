@@ -13,5 +13,6 @@ outerFunction()
 
 myScope;
 
+myScope();
 
 
