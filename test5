@@ -13,6 +13,6 @@ outerFunction()
 
 myScope;
 
-myScope();
+console.log(myScope());
 
 
