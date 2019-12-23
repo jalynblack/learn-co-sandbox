@@ -1,0 +1,11 @@
+var cat = "scratch"
+
+if (cat === "scratch") {
+  console.log("you may go blind")
+  
+  }else if (cat === "meows") {
+  console.log("give the cat milk")
+  
+  }else if (cat === "runs") {
+  console.log("Chase that thang")
+  }

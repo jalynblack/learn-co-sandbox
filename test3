@@ -1,0 +1,6 @@
+var myNote = "Get milk"
+console.log(myNote)
+
+myNote = "Get cookies"
+console.log(myNote)
+
